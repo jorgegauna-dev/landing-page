@@ -1,2 +1,2 @@
 # landing-page
-Modern business landing page built with HTML and CSS
+Modern responsive landing page built with HTML and Tailwind CSS.
